@@ -1,4 +1,4 @@
-# DEPLOYED IS HERE: https://itera-seven.vercel.app/
+# DEPLOYMENT IS HERE: https://itera-seven.vercel.app/
 
 <img width="1268" height="582" alt="Screenshot 2026-02-21 at 1 00 43 PM" src="https://github.com/user-attachments/assets/82007f93-3685-45eb-8130-2dd594b4cbf3" />
 
