@@ -1,5 +1,9 @@
 # DEPLOYED IS HERE: https://itera-seven.vercel.app/
 
+<img width="1268" height="582" alt="Screenshot 2026-02-21 at 1 00 43 PM" src="https://github.com/user-attachments/assets/82007f93-3685-45eb-8130-2dd594b4cbf3" />
+
+<img width="985" height="552" alt="Screenshot 2026-02-21 at 12 57 36 PM" src="https://github.com/user-attachments/assets/4b0a46ea-2e99-476b-8801-048ed9181906" />
+
 Generate and iterate on 3D models from images or text — in the browser.
 
 Upload a photo, type a description, or do both. Itera converts it into a 3D mesh and gives you a natural language editor to keep refining it.
