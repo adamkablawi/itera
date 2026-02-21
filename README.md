@@ -1,4 +1,4 @@
-# DEPLOYED IS HERE https://itera-pz9w1984m-akablawi-6855s-projects.vercel.app
+# DEPLOYED IS HERE: https://itera-pz9w1984m-akablawi-6855s-projects.vercel.app
 
 Generate and iterate on 3D models from images or text — in the browser.
 
